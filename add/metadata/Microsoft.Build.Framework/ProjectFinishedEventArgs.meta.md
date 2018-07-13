@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs.Succeeded
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs.#ctor(System.String,System.String,System.String,System.Boolean)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs.#ctor(System.String,System.String,System.String,System.Boolean,System.DateTime)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ProjectFinishedEventArgs.ProjectFile
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

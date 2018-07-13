@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Framework.XamlTypes.ProjectSchemaDefinitions
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.ProjectSchemaDefinitions.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.ProjectSchemaDefinitions.GetSchemaObjectTypes
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.ProjectSchemaDefinitions.GetSchemaObjects(System.Type)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.ProjectSchemaDefinitions.Nodes
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

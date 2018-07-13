@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Evaluation.SubToolset
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.SubToolset.SubToolsetVersion
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.SubToolset.Properties
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension.GetSchemaObjectTypes
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension.GetSchemaObjects(System.Type)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension.ContentType
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.FileExtension.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

@@ -1,41 +1,41 @@
 ---
 uid: Microsoft.Build.Tasks.XmlPoke
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.XmlInputPath
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.Query
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.Namespaces
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.XmlPoke.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

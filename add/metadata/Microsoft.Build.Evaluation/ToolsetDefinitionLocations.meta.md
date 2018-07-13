@@ -1,5 +1,5 @@
 ---
 uid: Microsoft.Build.Evaluation.ToolsetDefinitionLocations
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

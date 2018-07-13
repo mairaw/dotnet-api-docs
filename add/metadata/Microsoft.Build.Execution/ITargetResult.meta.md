@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.Execution.ITargetResult
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ITargetResult.ResultCode
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ITargetResult.Exception
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ITargetResult.Items
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

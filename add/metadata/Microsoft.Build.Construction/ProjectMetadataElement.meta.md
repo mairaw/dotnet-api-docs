@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Construction.ProjectMetadataElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectMetadataElement.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectMetadataElement.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

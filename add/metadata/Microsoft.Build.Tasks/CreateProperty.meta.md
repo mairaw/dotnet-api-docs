@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Tasks.CreateProperty
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.CreateProperty.ValueSetByTask
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.CreateProperty.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.CreateProperty.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.CreateProperty.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

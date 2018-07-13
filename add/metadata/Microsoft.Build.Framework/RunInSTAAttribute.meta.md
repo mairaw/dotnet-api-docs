@@ -1,11 +1,11 @@
 ---
 uid: Microsoft.Build.Framework.RunInSTAAttribute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.RunInSTAAttribute.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

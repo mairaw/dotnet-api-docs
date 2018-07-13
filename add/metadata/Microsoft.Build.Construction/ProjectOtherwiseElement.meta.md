@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement.PropertyGroups
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement.ConditionLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement.ChooseElements
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOtherwiseElement.ItemGroups
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

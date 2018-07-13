@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Tasks.ReadLinesFromFile
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.ReadLinesFromFile.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.ReadLinesFromFile.Lines
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.ReadLinesFromFile.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.ReadLinesFromFile.File
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

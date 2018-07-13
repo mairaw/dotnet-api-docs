@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Construction.ProjectPropertyElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectPropertyElement.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectPropertyElement.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

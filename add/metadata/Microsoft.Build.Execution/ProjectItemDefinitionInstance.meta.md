@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance.MetadataNames
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance.ItemType
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance.GetMetadata(System.String)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance.MetadataCount
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemDefinitionInstance.Metadata
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

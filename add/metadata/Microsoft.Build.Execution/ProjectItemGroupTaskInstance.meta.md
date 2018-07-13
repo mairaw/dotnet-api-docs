@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskInstance
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskInstance.Location
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskInstance.Items
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskInstance.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskInstance.ConditionLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

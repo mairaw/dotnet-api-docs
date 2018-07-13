@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringListProperty
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringListProperty.CommandLineValueSeparator
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringListProperty.RendererValueSeparator
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringListProperty.Subtype
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringListProperty.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

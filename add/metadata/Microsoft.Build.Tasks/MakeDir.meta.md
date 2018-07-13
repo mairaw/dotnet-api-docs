@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Tasks.MakeDir
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.MakeDir.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.MakeDir.Directories
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.MakeDir.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.MakeDir.DirectoriesCreated
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

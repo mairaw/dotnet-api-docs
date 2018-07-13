@@ -1,5 +1,5 @@
 ---
 uid: Microsoft.Build.Utilities.UpToDateCheckType
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

@@ -1,11 +1,11 @@
 ---
 uid: Microsoft.Build.Framework.RequiredAttribute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.RequiredAttribute.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

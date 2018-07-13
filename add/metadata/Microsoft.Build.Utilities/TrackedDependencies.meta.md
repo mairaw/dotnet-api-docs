@@ -1,11 +1,11 @@
 ---
 uid: Microsoft.Build.Utilities.TrackedDependencies
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(Microsoft.Build.Framework.ITaskItem[])
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

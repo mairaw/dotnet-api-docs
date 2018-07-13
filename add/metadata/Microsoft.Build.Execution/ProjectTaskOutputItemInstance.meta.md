@@ -1,47 +1,47 @@
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.TaskParameterLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.ConditionLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.TaskParameter
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.Location
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.ItemType
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectTaskOutputItemInstance.ItemTypeLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

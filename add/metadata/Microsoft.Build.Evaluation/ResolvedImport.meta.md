@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.Evaluation.ResolvedImport
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.ResolvedImport.IsImported
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.ResolvedImport.ImportedProject
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.ResolvedImport.ImportingElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

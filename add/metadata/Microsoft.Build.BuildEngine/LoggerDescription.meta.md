@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.BuildEngine.LoggerDescription
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.LoggerDescription.#ctor(System.String,System.String,System.String,System.String,Microsoft.Build.Framework.LoggerVerbosity)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.LoggerDescription.Verbosity
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.LoggerDescription.LoggerSwitchParameters
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

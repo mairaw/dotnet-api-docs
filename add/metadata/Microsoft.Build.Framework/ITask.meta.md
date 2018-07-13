@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.Framework.ITask
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ITask.HostObject
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ITask.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.ITask.BuildEngine
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

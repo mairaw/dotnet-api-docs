@@ -1,11 +1,11 @@
 ---
 uid: Microsoft.Build.Tasks.Hosting.IVbcHostObjectFreeThreaded
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.Hosting.IVbcHostObjectFreeThreaded.Compile
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

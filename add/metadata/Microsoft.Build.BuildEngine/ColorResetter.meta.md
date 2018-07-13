@@ -1,5 +1,5 @@
 ---
 uid: Microsoft.Build.BuildEngine.ColorResetter
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance.Location
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectPropertyGroupTaskPropertyInstance.ConditionLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

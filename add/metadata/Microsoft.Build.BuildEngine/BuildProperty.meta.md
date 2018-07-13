@@ -1,53 +1,53 @@
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.Clone(System.Boolean)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.ToString
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.IsImported
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.#ctor(System.String,System.String)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.BuildEngine.BuildProperty.FinalValue
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

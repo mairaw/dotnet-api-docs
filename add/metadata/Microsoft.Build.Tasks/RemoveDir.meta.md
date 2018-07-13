@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Tasks.RemoveDir
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.RemoveDir.RemovedDirectories
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.RemoveDir.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.RemoveDir.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.RemoveDir.Directories
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

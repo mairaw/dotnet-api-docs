@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.Construction.ProjectWhenElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectWhenElement.PropertyGroups
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectWhenElement.ItemGroups
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectWhenElement.ChooseElements
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

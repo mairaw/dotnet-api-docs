@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Construction.ProjectOnErrorElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOnErrorElement.ExecuteTargetsAttribute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectOnErrorElement.ExecuteTargetsLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

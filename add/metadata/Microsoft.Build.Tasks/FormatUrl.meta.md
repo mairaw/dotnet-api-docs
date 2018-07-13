@@ -1,29 +1,29 @@
 ---
 uid: Microsoft.Build.Tasks.FormatUrl
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.FormatUrl.OutputUrl
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.FormatUrl.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.FormatUrl.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.FormatUrl.InputUrl
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

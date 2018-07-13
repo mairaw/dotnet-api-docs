@@ -1,11 +1,11 @@
 ---
 uid: Microsoft.Build.Evaluation.ProjectCollectionChangedEventArgs
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Evaluation.ProjectCollectionChangedEventArgs.Changed
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

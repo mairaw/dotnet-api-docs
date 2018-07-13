@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringProperty
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringProperty.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.StringProperty.Subtype
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

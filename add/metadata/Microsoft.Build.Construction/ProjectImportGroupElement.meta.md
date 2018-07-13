@@ -1,17 +1,17 @@
 ---
 uid: Microsoft.Build.Construction.ProjectImportGroupElement
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectImportGroupElement.AddImport(System.String)
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Construction.ProjectImportGroupElement.Imports
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

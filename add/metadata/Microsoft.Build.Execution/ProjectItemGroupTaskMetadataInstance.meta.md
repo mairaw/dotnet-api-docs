@@ -1,35 +1,35 @@
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance.Condition
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance.Location
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance.ConditionLocation
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Execution.ProjectItemGroupTaskMetadataInstance.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

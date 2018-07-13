@@ -1,47 +1,47 @@
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.TargetPlatformVersion
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.InstalledSDKs
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.TargetPlatformIdentifier
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.SDKRegistryRoot
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.Execute
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Tasks.GetInstalledSDKLocations.SDKDirectoryRoots
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

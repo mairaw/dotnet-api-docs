@@ -1,23 +1,23 @@
 ---
 uid: Microsoft.Build.Framework.XamlTypes.NameValuePair
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.NameValuePair.#ctor
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.NameValuePair.Name
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---
 
 ---
 uid: Microsoft.Build.Framework.XamlTypes.NameValuePair.Value
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

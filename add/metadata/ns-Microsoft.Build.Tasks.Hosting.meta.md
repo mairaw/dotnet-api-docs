@@ -1,5 +1,5 @@
 ---
 uid: Microsoft.Build.Tasks.Hosting
-ms.author: "susanno"
+ms.author: "mikejo5000"
 manager: "douge"
 ---

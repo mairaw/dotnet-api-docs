@@ -20,11 +20,11 @@
       <format type="text/markdown"><![CDATA[  
   
 ## Remarks  
- For more information about signature definitions in [!INCLUDE[TLA2#tla_xps](~/includes/tla2sharptla-xps-md.md)] packages, see Chapter 10 in the XML Paper Specification (XPS) available for download at [http://go.microsoft.com/fwlink/?LinkID=65761](https://go.microsoft.com/fwlink/?LinkID=65761).  
+ For more information about signature definitions in [!INCLUDE[TLA2#tla_xps](~/includes/tla2sharptla-xps-md.md)] packages, see Chapter 17 in the [Standard ECMA-388 - Open XML Paper Specification (OpenXPS)](https://www.ecma-international.org/publications/standards/Ecma-388.htm).  
   
- For information about <xref:System.IO.Packaging.Package> digital signatures, see the MSDN article Digital Signing Framework of the Open Packaging Conventions available at [http://go.microsoft.com/fwlink/?LinkId=74494](https://go.microsoft.com/fwlink/?LinkId=74494).  
+ For information about <xref:System.IO.Packaging.Package> digital signatures, see the [Digital Signing Framework of the Open Packaging Conventions](https://go.microsoft.com/fwlink/?LinkId=74494) article.  
   
- For information about [!INCLUDE[TLA2#tla_xps](~/includes/tla2sharptla-xps-md.md)] see the XML Paper Specification (XPS) available for download at [http://go.microsoft.com/fwlink/?LinkID=65761](https://go.microsoft.com/fwlink/?LinkID=65761).  
+ For information about [!INCLUDE[TLA2#tla_xps](~/includes/tla2sharptla-xps-md.md)], see the [Standard ECMA-388 - Open XML Paper Specification (OpenXPS)](https://www.ecma-international.org/publications/standards/Ecma-388.htm).  
   
    
   
@@ -39,7 +39,7 @@
     <altmember cref="T:System.IO.Packaging.PackageDigitalSignature" />
     <altmember cref="T:System.Windows.Xps.Packaging.XpsDigitalSignature" />
     <related type="ExternalDocumentation" href="https://go.microsoft.com/fwlink/?LinkId=74494">Digital Signing Framework of the Open Packaging Conventions</related>
-    <related type="ExternalDocumentation" href="https://go.microsoft.com/fwlink/?LinkID=65761">XML Paper Specification (XPS)</related>
+    <related type="ExternalDocumentation" href="https://www.ecma-international.org/publications/standards/Ecma-388.htm">Standard ECMA-388 - Open XML Paper Specification (OpenXPS)</related>
   </Docs>
   <Members>
     <Member MemberName=".ctor">

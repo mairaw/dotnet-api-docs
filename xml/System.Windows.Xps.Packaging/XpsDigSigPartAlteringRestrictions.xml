@@ -46,7 +46,7 @@
     <altmember cref="T:System.IO.Packaging.PackageDigitalSignature" />
     <related type="ExternalDocumentation" href="https://go.microsoft.com/fwlink/?LinkID=71255">Open Packaging Conventions (OPC) Specification</related>
     <related type="ExternalDocumentation" href="https://go.microsoft.com/fwlink/?LinkId=74494">Digital Signing Framework of the Open Packaging Conventions</related>
-    <related type="ExternalDocumentation" href="https://go.microsoft.com/fwlink/?LinkID=65761">XML Paper Specification (XPS)</related>
+    <related type="ExternalDocumentation" href="https://www.ecma-international.org/publications/standards/Ecma-388.htm">Standard ECMA-388 - Open XML Paper Specification (OpenXPS)</related>
   </Docs>
   <Members>
     <Member MemberName="Annotations">

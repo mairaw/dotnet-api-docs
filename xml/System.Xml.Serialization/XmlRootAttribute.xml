@@ -419,7 +419,7 @@
   
  If the <xref:System.Xml.Serialization.XmlRootAttribute.IsNullable%2A> property is set to `true`, the `xsi:nil` attribute is generated as shown in the following XML:  
   
-```  
+```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:nil="true" />  
@@ -427,7 +427,7 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:nil="true" />
   
  If the <xref:System.Xml.Serialization.XmlRootAttribute.IsNullable%2A> property is `false`, an empty element is created as shown in the following code:  
   
-```  
+```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
 xmlns:xsd="http://www.w3.org/2001/XMLSchema" />  

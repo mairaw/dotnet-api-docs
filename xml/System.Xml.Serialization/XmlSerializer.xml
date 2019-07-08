@@ -2630,7 +2630,7 @@ xmlSerializer mySerializer=new XmlSerializer(typeof(LargeNumbers));
 ## Examples  
  The following example deserializes a class named `Group` from a file named UnknownElements.xml. Whenever an element is found in the file that has no corresponding member in the class, the <xref:System.Xml.Serialization.XmlSerializer.UnknownElement> event occurs. To try the example, paste the following XML code into a file named UnknownElements.xml.  
   
-```  
+```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
   <GroupName>MyGroup</GroupName>  
@@ -2780,7 +2780,7 @@ xmlSerializer mySerializer=new XmlSerializer(typeof(LargeNumbers));
 ## Examples  
  The following example adds an <xref:System.Xml.Serialization.UnreferencedObjectEventHandler> to an <xref:System.Xml.Serialization.XmlSerializer>. The event is handled by the `Serializer``_``UnreferencedObject` method. To run the example, cut and paste the following XML into a file named "UnrefObj.xml".  
   
-```  
+```xml
 <wrapper>  
   <Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="id1" n1:GroupName=".NET" xmlns:n1="http://www.cpandl.com">  
    </Group>  

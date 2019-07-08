@@ -55,7 +55,7 @@
   
  The <xref:System.Xml.Serialization.XmlElementAttribute> can be applied multiple times to a field that returns an array of objects. The purpose of this is to specify (through the <xref:System.Xml.Serialization.XmlElementAttribute.Type%2A> property) different types that can be inserted into the array. For example, the array in the following C# code accepts both strings and integers.  
   
-```  
+```csharp
 public class Things{  
    [XmlElement(Type = typeof(string)),  
    XmlElement(Type = typeof(int))]  
@@ -65,7 +65,7 @@ public class Things{
   
  This results in XML that might resemble the following.  
   
-```  
+```xml
 <Things>  
    <string>Hello</string>  
    <int>999</int>  
@@ -584,7 +584,7 @@ public class Things{
   
  If the <xref:System.Xml.Serialization.XmlAttributeAttribute.Namespace%2A> property is set to any value, attempting to set the <xref:System.Xml.Serialization.XmlElementAttribute.Form%2A> property to `XmlSchemaForm.Unqualified` throws an exception. The default setting, `XmlSchemaForm.None`, instructs the <xref:System.Xml.Serialization.XmlSerializer> to check the schema for the XML document to determine whether the namespace is qualified. If the schema does not specify a value for an individual element or attribute, the <xref:System.Xml.Serialization.XmlSerializer> uses the `elementFormDefault` and `attributeFormDefault` values to determine whether an element or attribute is qualified. The following XML code shows a schema:  
   
-```  
+```xml
 <schema elementFormDefault="qualified"   
 attributeFormDefault="unqualified"... >  
  <element name="Name"/>  
@@ -659,7 +659,7 @@ attributeFormDefault="unqualified"... >
   
  If the <xref:System.Xml.Serialization.XmlElementAttribute.IsNullable%2A> property is set to `true`, the `xsi:nil` attribute is generated for class members that have been set to `null`. For example if you set a field named `MyStringArray` to `null`, the <xref:System.Xml.Serialization.XmlSerializer> generates the following XML code.  
   
-```  
+```xml
 <MyStringArray xsi:nil = "true" />  
 ```  
   

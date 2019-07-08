@@ -829,12 +829,13 @@ attributeFormDefault="unqualified">
   
  If an array contains only primitive types, you do not need to apply the <xref:System.Xml.Serialization.XmlArrayItemAttribute>. By default, the <xref:System.Xml.Serialization.XmlSerializer> generates a series of elements, each with the same element name, for each value, but the type of each element is set to the XML Schema data type. For example, the following code:  
   
-```  
-' Visual Basic code  
+```vb
 Public Class Arrays  
    Public XSDTypes ()As Object= New Object(){"one", 2, 3.0}  
 End Class  
-// C# code  
+```
+
+```csharp
 public class MyArray{  
    // No XmlArrayItemAttribute is applied.  
    public object[] XSDTypes= new object[]{"one", 2, 3.2};  
@@ -843,7 +844,7 @@ public class MyArray{
   
  results in this XML:  
   
-```  
+```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <Arrays xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
   <XSDTypes>  
@@ -856,15 +857,16 @@ public class MyArray{
   
  However, if you specify the <xref:System.Xml.Serialization.XmlArrayItemAttribute.Type%2A> property for each primitive type, the element name for each value is generated using the .NET type name. For example this code:  
   
-```  
-' Visual Basic code  
+```vb
 Public Class Arrays  
    <XmlArrayItem(GetType(String)), _  
    XmlArrayItem(GetType(Integer)), _  
    XmlArrayItem(GetType(Double))> _  
    Public PrimitiveTypes () As Object = New Object(){"one", 2, 3.0}  
 End Class  
-// C# code  
+```
+
+```csharp
 public class Arrays{  
    [XmlArrayItem(typeof(string))]  
    [XmlArrayItem(typeof(int))]  
@@ -875,7 +877,7 @@ public class Arrays{
   
  results in this XML:  
   
-```  
+```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <Arrays xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
   <PrimitiveTypes>  
